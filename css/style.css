@@ -1,8 +1,25 @@
 body {
+width: 1600px;
 background-color: white;
 }
-#me {
+#topbar {
   height: 10px;
-  width: 1600px;
+  width: auto;
   background-color:#2ecc71 ;
+}
+#sitehead {
+height: 600px;
+width: auto;
+background-image: url("../images/header.png");
+background-repeat: no-repeat;
+}
+#featchers{
+height: 335px;
+width: auto;
+background-color: aqua
+}
+#get_notified{
+height: 427px;
+width: auto;
+background-color: #e3e3e3;
 }

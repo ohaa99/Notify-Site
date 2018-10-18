@@ -23,7 +23,17 @@ padding-top: 170px;
 color:white;
 font-family: Helvetica,Arial, sans-serif;
 margin-left: 325px;
- 
+font-weight: normal;
+}
+#iconContainer{
+margin-left: 320px;
+}
+#icons{
+width: 54px;
+height: 54px;
+float: left;
+display: inline-block;
+margin-left: 14px;
 }
 #featchers{
 height: 335px;
